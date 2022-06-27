@@ -7,6 +7,7 @@ This was a personal project I did in which I was introduced to various APIs from
  - must have credentials to run code
 
 
+![Screenshot](./images/screenshot.png)
 **Todo**
 - show estimate price of recipes
 - add functionality of getting instructional video for recipe
